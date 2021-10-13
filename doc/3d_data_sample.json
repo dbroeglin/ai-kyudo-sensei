@@ -1,0 +1,52 @@
+{
+    "_Metadata": {
+        "_KinectSensorBasicHwVersion": "7",
+        "_KinectSensorVersion": "4.0.3917.0"
+    },
+    "TrackingData": [
+        {
+            "_Start": "0:00:04.274839",
+            "_Duration": "0:00:00.499852",
+            "SpineBase": {
+                "TrackingState": "NOT_TRACKED",
+                "X": "0.523234",
+                "X": "1.123123",
+                "Z": "1.123123"
+            },
+            "SpineMid": {
+                "TrackingState": "INFERED",
+                "X": "0.523234",
+                "Y": "1.123123",
+                "Z": "1.123123"
+            },
+            "Neck": {
+                "TrackingState": "TRACKED",
+                "X": "0.523234",
+                "Y": "1.123123",
+                "Z": "1.123123"
+            }
+        },
+        {
+            "_Start": "0:00:05.274739",
+            "_Duration": "0:00:00.499852",
+            "SpineBase": {
+                "TrackingState": "NOT_TRACKED",
+                "X": "0.523234",
+                "X": "1.123123",
+                "Z": "1.123123"
+            },
+            "SpineMid": {
+                "TrackingState": "INFERED",
+                "X": "0.523234",
+                "Y": "1.123123",
+                "Z": "1.123123"
+            },
+            "Neck": {
+                "TrackingState": "TRACKED",
+                "X": "0.523234",
+                "Y": "1.123123",
+                "Z": "1.123123"
+            }
+        }        
+    ]
+}
